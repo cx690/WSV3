@@ -6,3 +6,4 @@ Spring+Swagger+Druid+Mybatis+Mysql
 druid:http://localhost:8080/{打包的包名}/druid/sql.html
 Swagger-UI：http://localhost:8080/{打包的包名}/swagger-ui.html
 
+介绍配置地址：https://blog.csdn.net/zhuht6918/article/details/72821457
